@@ -8,11 +8,7 @@ int main(void)
     printf("n: ");
     scanf("%d", &n);
     printf("Fibonacci of %d = %d", n, fibOfN(n));
-    prnsdjf
-    aslkdaslkdnsakld
-    sadklsandlksa
-    asdklsaldlska
-
+    printf("again hello world");
     return 0;
 }
 // fib(6) = 8
