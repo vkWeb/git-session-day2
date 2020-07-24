@@ -13,6 +13,8 @@ int main(void)
     sadklsandlksa
     asdklsaldlska
 
+    printf("Something more by vkweb");
+
     return 0;
 }
 // fib(6) = 8
