@@ -4,7 +4,7 @@
 
 int main(void)
 {
-    int n = 1;
+    int n = 2;
     printf("n: ");
     scanf("%d", &n);
     printf("Fibonacci of %d = %d", n, fibOfN(n));
